@@ -1,0 +1,17 @@
+body {
+  background-color: #0f0f0f;
+  color: #00ff00;
+  font-family: 'Courier New', monospace;
+  padding: 20px;
+}
+.terminal-box {
+  border: 1px solid #00ff00;
+  padding: 20px;
+  background-color: #111;
+}
+ul {
+  list-style: square;
+}
+a {
+  color: #00ffff;
+}
