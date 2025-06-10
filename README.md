@@ -25,7 +25,7 @@ Ale jak mówiłem – **„i tak znajdę sposób”**.
 
 ## 🧩 O co chodzi?
 
-Na stronie użytkownik może odkrywać ukryte warstwy – tzw. "flagi" (w komentarzach HTML, stylach CSS i JS).  
+Na stronie użytkownik może odkrywać ukryte warstwy – tzw. "flagi" (w HTML, CSS i JS).  
 To lekka forma **zabawowego CTF-a**, osadzona w cyber-narracji. Każda flaga odkrywa kolejny element „misji”, a ostatnia — kończy ją humorem i puentą.
 
 Projekt łączy:
@@ -56,3 +56,5 @@ Nie zawiera złośliwego kodu, backdoorów ani prawdziwych exploitów — tylko 
 
 **„Obiekt 'Leżak' przejęty. Misja zakończona powodzeniem.”**  
 ~ Savaqe21 🪑
+
+P.S. CSS zawiera dużo zbędnego kodu celowo, a czyste flagi trzeba wyłuskać z tła. To ma być trochę zabawa, trochę trening spostrzegawczości — i okazja do ćwiczenia cybercierpliwości 😄
