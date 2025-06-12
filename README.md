@@ -9,7 +9,7 @@
 
 Ten projekt to nietypowa, interaktywna strona stylizowana na raport operacyjny z "przejęcia" strategicznego zasobu – leżaka. Inspiracją był konkurs organizowany przez [Sekurak](https://sekurak.pl), w którym mimo zaangażowania nie udało się zdobyć nagrody głównej.
 
-Ale jak mówiłem – **„i tak znajdę sposób”**.
+Ale jak mówiłem – **„i tak znajdę sposób”**
 
 ## 🌐 Zobacz na żywo
 
