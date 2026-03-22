@@ -55,6 +55,6 @@ Nie zawiera złośliwego kodu, backdoorów ani prawdziwych exploitów — tylko 
 ---
 
 **„Obiekt 'Leżak' przejęty. Misja zakończona powodzeniem.”**  
-~ Savaqe21 🪑
+~ savaqe21 🪑
 
 P.S. CSS zawiera dużo zbędnego kodu celowo, a czyste flagi trzeba wyłuskać z tła. To ma być trochę zabawa, trochę trening spostrzegawczości — i okazja do ćwiczenia cybercierpliwości 😄
