@@ -52,7 +52,7 @@ Nie zawiera złośliwego kodu, backdoorów ani prawdziwych exploitów — tylko 
 - **AI** – za kreatywne partnerstwo
 - I wszystkim, którzy znajdą ten projekt i się uśmiechną
 
------
+---
 
 **„Obiekt 'Leżak' przejęty. Misja zakończona powodzeniem.”**  
 ~ Savaqe21 🪑
