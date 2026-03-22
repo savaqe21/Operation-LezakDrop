@@ -7,9 +7,9 @@
 
 ## 🎯 Cel misji
 
-Ten projekt to nietypowa, interaktywna strona stylizowana na raport operacyjny z "przejęcia" strategicznego zasobu – leżaka. Inspiracją był konkurs organizowany przez [Sekurak](https://sekurak.pl), w którym mimo zaangażowania nie udało się zdobyć nagrody głównej.
+Ten projekt to nietypowa, interaktywna strona stylizowana na raport operacyjny z "przejęcia" strategicznego zasobu - leżaka. Inspiracją był konkurs organizowany przez [Sekurak](https://sekurak.pl), w którym mimo zaangażowania nie udało się zdobyć nagrody głównej.
 
-Ale jak mówiłem – **„i tak znajdę sposób”**
+Ale jak mówiłem - **„i tak znajdę sposób”**
 
 ## 🌐 Zobacz na żywo
 
@@ -25,8 +25,8 @@ Ale jak mówiłem – **„i tak znajdę sposób”**
 
 ## 🧩 O co chodzi?
 
-Na stronie użytkownik może odkrywać ukryte warstwy – tzw. "flagi" (w HTML, CSS i JS).  
-To lekka forma **zabawowego CTF-a**, osadzona w cyber-narracji. Każda flaga odkrywa kolejny element „misji”, a ostatnia — kończy ją humorem i puentą.
+Na stronie użytkownik może odkrywać ukryte warstwy - tzw. "flagi" (w HTML, CSS i JS).  
+To lekka forma **zabawowego CTF-a**, osadzona w cyber-narracji. Każda flaga odkrywa kolejny element „misji”, a ostatnia - kończy ją humorem i puentą.
 
 Projekt łączy:
 - umiejętności techniczne (web, JS, ukrywanie danych)
@@ -52,7 +52,7 @@ Nie zawiera złośliwego kodu, backdoorów ani prawdziwych exploitów — tylko 
 - **AI** – za kreatywne partnerstwo
 - I wszystkim, którzy znajdą ten projekt i się uśmiechną
 
----
+-----
 
 **„Obiekt 'Leżak' przejęty. Misja zakończona powodzeniem.”**  
 ~ Savaqe21 🪑
